@@ -1,0 +1,5 @@
+Install angular cli through npm
+1 open cmd and type 
+npm install -g @angular/cli
+2 its version is
+v1.2.7
